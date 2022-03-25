@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ellshovi
+##Welcome to my Github account!
+
 - 👀 I’m interested in web programming, books, and many other things.
 - 🌱 I’m currently learning electrical engineering
 - 📫 How to reach me: ig-> @ellshovi_
